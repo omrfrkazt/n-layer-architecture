@@ -1,3 +1,3 @@
-# n-tier-architecture
+# n-layer-architecture
 
-Basic Asp.Net Core N-Tier Architecture
+Basic Asp.Net Core N-Layer Architecture
